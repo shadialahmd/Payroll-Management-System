@@ -37,7 +37,7 @@
 				</div>
 			</form>
 			</div>
-			<!-- FORM Panel -->
+			<!-- FORM Panel --> 
 
 			<!-- Table Panel -->
 			<div class="col-md-8">
@@ -90,7 +90,7 @@
 	}
 	img{
 		max-width:100px;
-		max-height: :150px;
+		max-height:150px;
 	}
 </style>
 <script>
